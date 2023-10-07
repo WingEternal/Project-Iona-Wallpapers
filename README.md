@@ -19,6 +19,8 @@ A collection of wallpapers in Project Iona.
 
 ![Wallpaper for sub screens](display_1/contents/screenshot.png)
 
+![Wallpaper for sub screens](display_2/contents/screenshot.png)
+
 ## Installation
 
 Currently you can install these package by copying them to `~/.local/share/wallpapers/`:

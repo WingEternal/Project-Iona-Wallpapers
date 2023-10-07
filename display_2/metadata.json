@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "dradcr7@gmail.com",
+        "Name": "WingEternal"
+      }
+    ],
+    "Id": "com.github.wingeternal.plasma5-wallpapers-iona-display-2",
+    "License": "GPL-3.0",
+    "Name": "PIona Wallpapers (Sub Display 2)",
+    "ServiceTypes": [
+      "Plasma/Wallpaper"
+    ],
+    "Version": "0.1",
+    "Website": "https://github.com/WingEternal/Project-Iona-Wallpapers"
+  }
+}
